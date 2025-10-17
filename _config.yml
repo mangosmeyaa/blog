@@ -4,5 +4,5 @@ remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: [Hauntingly Meya 👻]
+description: [Unfiltered and unapologetic — just real moments of truth, courage, and vulnerability meant to inspire others to be the same.]
