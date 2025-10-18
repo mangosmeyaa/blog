@@ -1,9 +1,3 @@
-hi my name is meya
-
-
-
-
-
 <ul>
    {% for post in site.posts %}
      <li>
