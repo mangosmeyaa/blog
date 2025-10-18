@@ -1,2 +1,2 @@
 uigiugiuiubgiug
-<img src="/blog/images/Cats.jpg" alt="smth">
+<img src="/blog/images/Cats.jpg" alt="smth" >
