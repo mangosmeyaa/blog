@@ -1,0 +1,2 @@
+# Hii, it's Meya. Welcome to my yap session! You'll read me yapping about the ups and downs (mainly downs), my growth, and all the random thoughts in between. I'll be dicussing about my summer, as there is a lot that I took away from it. Additionally, I want to dedicate a portion of my blog to a friend I lost, but who also reminded me along the way to continue even when things felt heavy. This one's for you. <3
+
