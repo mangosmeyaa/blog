@@ -15,7 +15,7 @@
 
 <img src="/blog/images/Beach.jpg" alt="beach">
 
-# The Beach Trip That Changed Me (I will never be the same)**
+# The Beach Trip That Changed Me (I will never be the same)
 
 <span style="color: #32CD32;">I spent the day with Kael, Leah, and a friend from my homeschool, and we went to Far Rockaway Beach. Planning this trip wasn’t easy. I had to keep rescheduling because of bad weather or because I just wasn’t mentally ready to go. I get really self-conscious, and it’s something I’ve struggled with for a while. But my friends convinced me every step of the way. They reminded me that I didn’t need to look a certain way, and eventually, I told myself, “You know what, I’ll go.”</span>
 
