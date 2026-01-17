@@ -1,5 +1,5 @@
 # AI BLOG 
-<img src="/blog/images/robot.jpg" alt="broken for now">
+<img src="/blog/images/robot.jpg" alt="sonny">
 <br>
 <br>
 
