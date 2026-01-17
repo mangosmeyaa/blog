@@ -1,4 +1,4 @@
-# AI BLOG 
+# BLOG 3: Irobot
 <img src="/blog/images/robot.jpg" alt="sonny" style="max-width:100%; border-radius: 10px;">
 <br><br>
 
