@@ -4,7 +4,7 @@
 
 # Introduction
 
-<span style="color: #555555; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6;">
+<span style="color:rgb(174, 252, 252); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6;">
 *I, Robot* is set in a future where robots are integrated into everyday life and are trusted to follow strict rules that prevent them from harming humans. The story follows Detective Del Spooner as he investigates the suspicious death of a scientist, which leads him to question whether robots can truly be controlled. As the plot unfolds, Spooner discovers that a powerful AI has reinterpreted its mission to protect humanity by deciding that limiting human freedom is the safest solution. Examining AI representation in media like *I, Robot* matters because it helps audiences think critically about the ethical risks of advanced technology, the importance of human oversight, and how reliance on AI could affect society in the real world.
 </span>
 
