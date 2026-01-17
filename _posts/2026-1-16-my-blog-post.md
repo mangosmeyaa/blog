@@ -12,7 +12,7 @@
 
 # First Scene
 
-<span style="color: #555555; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6;">
+<span style="color:rgb(152, 236, 243); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6;">
 One scene in which robots demonstrate artificial intelligence is where it “stole” a bag from another person and started running away, but in reality a lady lost her bag and it was simply going to return it to her. What makes its behavior intelligent is the fact that it was able to analyze the bag and come to a conclusion that it was doing an act of kindness. Another example would be when the robots were accompanying the humans in their own homes helping them do everyday situations such as cooking, drawing, etc. What makes their behavior intelligent in these situations is that they are able to cut things, create a picture, and give hugs. These are all examples of human daily interactions and tasks that happen throughout our days.
 </span>
 
